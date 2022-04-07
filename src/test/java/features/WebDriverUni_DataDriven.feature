@@ -11,4 +11,3 @@ Feature: WebDriver University
       | RamaSitha | SithaRama|
       | Laxmana   | Urmila   |
       | Krishna   | Urmila   |
-      | Hanuma    | Sri Rama |
